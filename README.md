@@ -1,8 +1,6 @@
 # Overview
 
-This project is a personal test project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-It was created to learn how to build a MERN stack application
+This project is a personal test project created to learn how to build a MERN stack application
 
 ## To run the project
 
